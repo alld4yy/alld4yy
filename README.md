@@ -35,16 +35,16 @@ Every testing harness, automated pipeline, and agentic workforce I build adheres
 
 ### Flagship Open-Source Architectures
 
-* [**autonomous-qa-workforce**](https://github.com/aldyansaputra/autonomous-qa-workforce)  
-  *Decoupled 4-role multi-agent verification engine running on local and cloud LLM backends. Features automated test matrix generation, headless browser execution via CDP, and independent adversarial review.*
-
-* [**deterministic-dual-reporter**](https://github.com/aldyansaputra/deterministic-dual-reporter)  
+* [**deterministic-dual-reporter**](https://github.com/alld4yy/deterministic-dual-reporter)  
   *Automated QA reporting compiler generating clean, responsive HTML5 telemetry dashboards and formal executive Word DOCX reports with embedded SHA-256 evidence integrity hashes.*
 
-* [**enterprise-sit-framework**](https://github.com/aldyansaputra/enterprise-sit-framework)  
+* [**autonomous-qa-workforce**](https://github.com/alld4yy/autonomous-qa-workforce)  
+  *Decoupled 4-role multi-agent verification engine running on local and cloud LLM backends. Features automated test matrix generation, headless browser execution via CDP, and independent adversarial review.*
+
+* [**enterprise-sit-framework**](https://github.com/alld4yy/enterprise-sit-framework)  
   *Modular System Integration Testing and E2E regression automation template combining Playwright, API contract assertions, and isolated test fixtures.*
 
-* [**android-hardware-qa-harness**](https://github.com/aldyansaputra/android-hardware-qa-harness)  
+* [**android-hardware-qa-harness**](https://github.com/alld4yy/android-hardware-qa-harness)  
   *Lightweight CLI diagnostic harness automating Android ADB instrumentation, screenshot evidence hashing, and real-time logcat crash filtering.*
 
 ---
